@@ -13,6 +13,8 @@
 ### Tools:
 - Git
 - Android Studio
+- Slack
+- Notion
 
 ### How to reach me ?
 
