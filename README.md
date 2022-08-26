@@ -1,13 +1,11 @@
 ### Hi there 👋, I am Arman.
 <hr />
 
-### I usually work on:
+### I usually work on following technologies:
 - Java
 - Nodejs | Express
 - Flutter
 - Arduino
-
-### Databases:
 - Firebase | MySQL | SQL Server
 
 ### Tools:
