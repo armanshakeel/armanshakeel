@@ -25,7 +25,7 @@ Front-end development:
 
 Databases:
 
-- MongoDB | Firebase | Sql |
+- MongoDB | Firebase | Sql 
 
 ### Tools:
 - Git
