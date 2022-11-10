@@ -1,16 +1,36 @@
 ### Hi there 👋, I am Arman.
 <hr />
 
-### I usually work on following technologies:
+Programming Languages:
+- Javascript
 - Java
+- Python
+- C
+
+Front-end development:
+
+- HTML | CSS | JS
+- React | Redux
+- Bootstrap
+
+ Back-end development:
+
 - Nodejs | Express
+- Flask | Django
+
+ Mobile development:
+
+- React Native
 - Flutter
-- Arduino
-- Firebase | MySQL | SQL Server
+
+Databases:
+
+- MongoDB | Firebase | Sql |
 
 ### Tools:
 - Git
 - Android Studio
+- Visual Studio Code
 - Slack
 - Notion
 
