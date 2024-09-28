@@ -10,22 +10,15 @@ Programming Languages:
 Front-end development:
 
 - HTML | CSS | JS
-- React | Redux
-- Bootstrap
-
- Back-end development:
-
-- Nodejs | Express
-- Flask | Django
+- React 
 
  Mobile development:
 
-- React Native
 - Flutter
 
 Databases:
 
-- MongoDB | Firebase | Sql 
+-  Firebase 
 
 ### Tools:
 - Git
