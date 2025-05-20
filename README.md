@@ -15,10 +15,17 @@ Front-end development:
  Mobile development:
 
 - Flutter
+- React Native
 
+ Backend Development:
+
+- NodeJs
+- NestJs
+  
 Databases:
 
--  Firebase 
+-  Firebase
+-  MongoDb
 
 ### Tools:
 - Git
@@ -26,6 +33,7 @@ Databases:
 - Visual Studio Code
 - Slack
 - Notion
+- Gira
 
 ### How to reach me ?
 
